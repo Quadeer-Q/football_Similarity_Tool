@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.env
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Build
+/build
+/dist
+*.tsbuildinfo
+
+# Testing
+/coverage
+.nyc_output
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
